@@ -20,7 +20,7 @@ int main()
 	}
 	while(a==0)
 	{
-//		system("cls");
+		system("cls");
 		cout<<h<<":"<<m<<":"<<s<<endl;
 		Sleep(1000);
 		s++;
