@@ -1,7 +1,7 @@
 # CPP-Projects
 Clock Using CPP Program
 
-~:~All you have to know about this program~:~
+:All you have to know about this program:
 
 1.<windows.h> is windows special header file for c/c++  programming languages which contains declarations for all of the functions in the Windows API.
 All the various function declared in windows is defined.
