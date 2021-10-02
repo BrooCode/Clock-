@@ -17,3 +17,4 @@ sleep(10);
 cout<<"world";
 }
 here compiler write hello and the wait for 10 seconds and then write world.
+   
